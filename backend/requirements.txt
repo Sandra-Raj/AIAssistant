@@ -1,8 +1,12 @@
 fastapi
 uvicorn 
-langchain 
-langchain-huggingface
+langchain==0.1.20
+langchain-openai==0.1.7
+langchain-huggingface==0.0.3
+langchain-groq==0.1.4
+langchain-community==0.0.38
 sentence-transformers 
 chromadb 
+fpdf2
 pypdf
 python-multipart
